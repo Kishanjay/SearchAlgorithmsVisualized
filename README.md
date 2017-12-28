@@ -1,17 +1,20 @@
 # SearchAlgorithmsVisualized
+The Search algorithms that are thought during the Computational Thinking course (VU Amsterdam) made visual. 
+## About
 This project was written in september 2016, which was also the second time that I was a teaching assistent for the [Computational Thinking course at the VU](https://www.vu.nl/nl/studiegids/2017-2018/bachelor/c-f/computer-science/index.aspx?view=module&origin=50049123&id=50049587). During this time I noticed that students often stuggle with understanding some sorting algorithms (despite the many good resources there already are available online).
 
 In an attempt to solve this issue, this project was born. The main idea behind this project is to help students understand the various sorting methods better by providing them with more (and better) live-examples. 
 
 (the project was a success and is now being used by the professor on his personal website: [bhulai.nl](http://bhulai.nl))
 > Kishan Nirghin
-## Impression
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Preview
+![Overview of website](https://kishanjay.github.io/SearchAlgorithmsVisualized/preview/psoverview.png)
 
 ## How to run
 Simply copy the entire folder and host with any apacheserver.
 ##### Requirements: 
 * PHP
+* Internet connection
 
 ## TODO
 ###### This project could be expanded / improved by adding the following features:
